@@ -1,2 +1,2 @@
 # candy_crush
-my candy crush copy work
+The candy crush game I created with the lessons I watched on Youtube, it is not finished yet but its working. It still need design elements
